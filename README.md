@@ -1,8 +1,12 @@
-I'm Samir Chelfat (Not my real name)
-Knowledge:
-    - C#
-    - SQL
-    - C (a little)
+# Profile
+CS Student at University of Bejaia, Algeria.
+
+> ## Knowledge
+
++ ``` C# ```
++ ``` C/C++ ```
++ ``` SQL ```
+
 
 <!---
 SamirChelfat/SamirChelfat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
