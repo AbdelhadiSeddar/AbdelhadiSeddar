@@ -5,8 +5,8 @@ CS Student at University of Bejaia, Algeria.
 + ``` MIPS Assembly ```
 + ``` C# ```
 + ``` C/C++ ```
-+ ``` SQL ```
 + ``` Java ```
++ ``` PostgreSQL ```
 
 
 <!---
