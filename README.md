@@ -4,7 +4,6 @@ CS Student at University of Bejaia, Algeria.
 > ## Knowledge
 + ``` MIPS Assembly ```
 + ``` C# ```
-+ ``` Java ```
 + ``` C/C++ ```
 + ``` Java ```
 + ``` PostgreSQL ```
