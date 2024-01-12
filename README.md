@@ -1,6 +1,8 @@
 # Profile
 CS Student at University of Bejaia, Algeria.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdelhadiSeddar&show_icons=true&theme=transparent)
+
 > ## Knowledge
 + ``` MIPS Assembly ```
 + ``` C# ```
