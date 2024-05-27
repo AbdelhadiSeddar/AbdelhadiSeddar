@@ -1,15 +1,8 @@
 # Profile
-CS Student at University of Bejaia, Algeria.
+🖥️ CS Student at University of Bejaia, Algeria 🇩🇿 .
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdelhadiSeddar&show_icons=true&theme=transparent)
-
-> ## Knowledge
-+ ``` MIPS Assembly ```
-+ ``` C# ```
-+ ``` C/C++ ``` ( Mainly C ) 
-+ ``` Java ```
-+ ``` PostgreSQL ```
-
+# About me
+### 🎊 Check more about me from my Website [abdelhadiseddar.com](https://abdelhadiseddar.com)
 
 <!---
 AbdelhadiSeddar/AbdelhadiSeddar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
