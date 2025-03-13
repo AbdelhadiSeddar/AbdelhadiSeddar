@@ -7,6 +7,8 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SNF Release: 0.0.2-alpha](https://blog.abdelhadiseddar.com/snf-release-0-0-2-alpha/)
+- [Shadow Network Framework](https://blog.abdelhadiseddar.com/what-is-shadow-network-framework/)
 <!-- BLOG-POST-LIST:END -->
 
 # About me
