@@ -13,7 +13,7 @@
 
 # About me
 ### Most Used Languages
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelhadiSeddar&theme=shadow_blue)](https://github.com/anuraghazra/github-readme-stats)
+[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelhadiSeddar&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🎊 Check more about me from my Website [abdelhadiseddar.com](https://abdelhadiseddar.com)
 
